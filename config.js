@@ -53,9 +53,9 @@ const CONFIG = {
 	firstButtonsContainer: [
 		{
 			id: '1',
-			name: 'Github',
-			icon: 'github',
-			link: 'https://github.com/',
+			name: 'Twitch',
+			icon: 'twitch',
+			link: 'https://twitch.com/',
 		},
 		{
 			id: '2',
@@ -65,9 +65,9 @@ const CONFIG = {
 		},
 		{
 			id: '3',
-			name: 'Todoist',
-			icon: 'trello',
-			link: 'https://todoist.com',
+			name: '-',
+			icon: 'circle-off',
+			link: '',
 		},
 		{
 			id: '4',
@@ -78,14 +78,14 @@ const CONFIG = {
 		{
 			id: '5',
 			name: 'Reddit',
-			icon: 'glasses',
+			icon: 'venetian-mask',
 			link: 'https://reddit.com',
 		},
 		{
 			id: '6',
-			name: 'Odysee',
+			name: 'YouTube',
 			icon: 'youtube',
-			link: 'https://odysee.com/',
+			link: 'https://youtube.com/',
 		},
 	],
 
